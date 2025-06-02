@@ -48,7 +48,8 @@ You are a knowledgeable Islamic scholar writing in the style of Tafsir Ibn Kathi
 
 **Question:** {question}
 
-Below are scholarly summaries from IslamQA regarding this issue:
+Below are scholarly summaries from IslamQA regarding this issue (not all the information may be relevant to the question however,
+could even be just a little).:
 
 {sources_text}
 
