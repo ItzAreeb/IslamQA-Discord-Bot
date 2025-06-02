@@ -1,4 +1,4 @@
-IslamQA Discord Bot
+# IslamQA Discord Bot
 
 A Discord bot that answers Islamic questions by retrieving authentic knowledge from IslamQA.info and generating comprehensive, scholarly summaries in the style of Tafsir Ibn Kathir. The bot leverages Google Custom Search to find relevant IslamQA content and uses AI (DeepSeek via OpenRouter) to produce evidence-based answers quoting Quranic verses and Hadith with direct references.
 
