@@ -15,5 +15,5 @@ A Discord bot that answers Islamic questions by retrieving authentic knowledge f
 
 - Built with Discord.py, Google API Client, and OpenAI-compatible DeepSeek API
 
-  # Installation Link
-  https://discord.com/oauth2/authorize?client_id=1378760733847978244
+# Installation Link
+https://discord.com/oauth2/authorize?client_id=1378760733847978244
